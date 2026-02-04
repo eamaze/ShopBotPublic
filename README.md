@@ -1,2 +1,2 @@
-# ShopBotPublic
-
+# ShopBot
+Discord shop bot

@@ -1,8 +1,12 @@
+config.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+#dont want to share logs
+discord.log
 # C extensions
 *.so
 
