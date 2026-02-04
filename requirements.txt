@@ -1,2 +1,5 @@
+discord.py
+mysql-connector-python
 Flask
 requests
+paypalrestsdk
